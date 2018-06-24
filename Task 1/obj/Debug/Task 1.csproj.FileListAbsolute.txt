@@ -1,0 +1,81 @@
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\csc.exe
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\csc.exe.config
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\csc.rsp
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\csi.exe
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\csi.exe.config
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\csi.rsp
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.AppContext.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Collections.Immutable.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Console.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Diagnostics.Process.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.IO.Compression.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.IO.FileSystem.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.IO.Pipes.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Security.AccessControl.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Security.Claims.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Threading.Thread.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.ValueTuple.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Xml.XPath.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\vbc.exe
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\vbc.exe.config
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\vbc.rsp
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\VBCSCompiler.exe
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\roslyn\VBCSCompiler.exe.config
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\Task 1.dll.config
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\Task 1.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\Task 1.pdb
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\Microsoft.Web.Infrastructure.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Helpers.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Mvc.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Razor.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Webpages.Deployment.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Webpages.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Webpages.Razor.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Razor.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Webpages.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Webpages.Deployment.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Webpages.Razor.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Helpers.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\System.Web.Mvc.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\ru\System.Web.Razor.resources.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\ru\System.Web.Webpages.resources.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\ru\System.Web.Helpers.resources.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\ru\System.Web.Mvc.resources.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\obj\Debug\Task 1.csprojResolveAssemblyReference.cache
+D:\Катя\программирование\Epam\Home_Task\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+D:\Катя\программирование\Epam\Home_Task\Task 1\obj\Debug\Task 1.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\obj\Debug\Task 1.pdb
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\EntityFramework.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\EntityFramework.SqlServer.dll
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\EntityFramework.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\EntityFramework.SqlServer.xml
+D:\Катя\программирование\Epam\Home_Task\Task 1\bin\ru\EntityFramework.resources.dll
