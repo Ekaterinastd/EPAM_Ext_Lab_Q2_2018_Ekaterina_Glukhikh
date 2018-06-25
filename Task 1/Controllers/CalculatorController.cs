@@ -28,7 +28,7 @@ namespace Task_1.Controllers
             return x * y;
         }
         // GET: Calculator
-        public ActionResult Calculartor(Models.Model1.Calculating calc)
+        public ActionResult Calculartor(Models.Model1.Calculating calc)//todo pn что-то ты намудрила. Нужно 2 метода-экшена, которые возвращают вьюшку одну и ту же, но с разными значениями параметров модели.
         {
             int selectedAction = Convert.ToInt32(Request["action"]);
 
