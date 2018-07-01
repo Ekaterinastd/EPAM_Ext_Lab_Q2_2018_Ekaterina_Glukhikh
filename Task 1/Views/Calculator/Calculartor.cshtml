@@ -1,35 +1,31 @@
 ﻿@using Task_1.Models
-@using (Html.BeginForm("Calculartor", "Calculator")) { 
-{
-    ViewBag.Title = "Calculartor";
-}
-
 <h2>Calculartor</h2>
-    @*<h3>Enter integers</h3>*@
-    @Html.Label("Enter integers")<br />
-@*<form action="" method="">*@
-    @Html.Label("X")
-    @Html.TextBox("X")<br />
-    @Html.Label("Y")
-    @Html.TextBox("Y")<br />
-    @Html.RadioButton("action", 0)
-    <span>Sum</span> <br />
-    @Html.RadioButton("action", 1)
-    <span>Prod</span> <br />
-    <input type="submit" value="Calc" /><br />
- 
-    @ViewBag.Message
-    @ViewData["Answer"]
+@*<h3>Enter integers</h3>*@
+@{ Html.BeginForm("Calculartor", "Calculator");}
+
+@Html.Label("Enter integers")<br />
+
+
+@Html.Label("X")
+@Html.TextBox("X")<br />
+@Html.Label("Y")
+@Html.TextBox("Y")<br />
+@Html.RadioButton("action", "+")
+<span>Sum</span> <br />
+@Html.RadioButton("action", "*")
+<span>Prod</span> <br />
+<input type="submit" value="Calc" /><br />
+@{Html.EndForm();}
+
+@ViewBag.Message
+@ViewData["Answer"]
+<div>
+    Log:
     <div>
-        Log:
-        <div>
-            @foreach (var item in Html.GetLog())
-            {<div>
-                @item
-            </div>
-            }
-            </div>
-        </div>
-        
+        @foreach (var item in Html.GetLog())
+        {
+            @item <br />
+        }
+    </div>
+</div>
 @*</form>*@
-}
