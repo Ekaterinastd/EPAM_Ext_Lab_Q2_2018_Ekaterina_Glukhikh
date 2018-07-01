@@ -27,6 +27,7 @@
         {
             public object X { get; set; }
             public object Y { get; set; }
+            public int Result { get; set; }
                       
         }
     }
@@ -40,7 +41,8 @@
         /// <param name="html">Сообщает компилятору, что определяется метод расширения</param>
         /// <returns>Возвращает массив вычислений</returns>
         public static List<string> GetLog(this HtmlHelper html)
-        {                   
+        {
+            List<string> log = new List<string>();
             return log;
         }
     }

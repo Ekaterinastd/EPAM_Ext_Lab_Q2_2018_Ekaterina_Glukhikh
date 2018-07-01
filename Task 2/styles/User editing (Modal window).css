@@ -1,0 +1,133 @@
+body{
+	background-image:url('D:/Катя/программирование/Epam/Home_Task/Task 2/images/55.jpg');
+}
+img{
+	height: 28px;
+}
+#window_editing img, #window_detail img{
+	height: 2em;
+	margin-left: auto;
+	float: right;
+	}
+
+*{
+margin:0px ;
+box-sizing: border-box;
+}
+}
+p {text-indent: 5%; font-size: 18px}
+p1 {margin-top:5px;
+	padding-top: 2px;}
+
+h1,h2 {
+font-style: italic;
+ Text-align: center;
+ padding-top: 20px;
+}
+a:link {font-size:20px; color:#8B1A1A;text-decoration:none;}
+a:visited {font-size:20px; color:#000000;}
+div { overflow: visible; }
+h5{
+	text-align: center;
+	font-size: 30px;
+}
+
+ul{
+ margin: 0;
+ padding: 0;
+ list-style: none;
+ }
+
+
+  .modal_blackout {
+margin: 0;
+padding: 0;
+position: fixed;
+top:0;
+bottom:0;
+left:0;
+right:0;
+background: rgba(0,0,0,0.5);
+z-index:100; 
+opacity:0; 
+pointer-events: none;
+}
+#window_editing {
+        width: 550px;
+	margin: 8em auto;
+	border: 5px ridge #fee5c6;
+	background-color:#30312c;
+	padding-left: 25px;
+	padding-right: 15px;
+	border-radius: 20px; 
+	padding: 2%;
+      }
+#blackout_editing:target {
+opacity: 1; 
+pointer-events: auto;}
+
+.close {
+  display:inline-block;
+  margin-right:50px;
+  color: black;
+  font:13px Georgia;
+  text-decoration: none;
+  padding: 5px;
+  height: 35px;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #9d9f9e #000 #382a4e;
+  border-radius: 6px;
+  background: linear-gradient(#f7cb8a, #f8d7ae) #cfbc7a;
+  transition: 0.2s;
+  width: 38%;
+  text-align: center;
+      }
+.close:hover {
+	  background: linear-gradient(#ffffff, #fae0c8) #60876a;}
+.close a{font:18px Georgia;}
+	  
+.editing{
+	margin-bottom: 8px;
+	overflow: hidden;
+	font-family:  Georgia;
+	color: #fef5f7;
+}
+	  
+.editing input{
+	float: right;
+	height: 19px;
+	line-height: 19px;
+	width: 280px;
+	border-radius: 10px;
+}
+
+ input[type=submit].editing{
+  display:inline-block;
+  margin-right:50px;
+  margin-top: 15px;
+  color: black;
+  font:18px Georgia;
+  text-decoration: none;
+  padding: 5px;
+  height: 35px;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #9d9f9e #000 #382a4e;
+  border-radius: 6px;
+  background: linear-gradient(#f7cb8a, #f8d7ae) #cfbc7a;
+  transition: 0.2s;
+  width: 38%;
+  text-align: center;
+ }
+input[type=submit].editing:hover{
+	background: linear-gradient(#ffffff, #fae0c8) #60876a;
+}
+	input[type=image]{
+	height: 2em;
+	margin-left: auto;
+	float: right;
+}
+

@@ -1,0 +1,55 @@
+
+body{
+	background-image:url('D:/Катя/программирование/Epam/Home_Task/Task 2/images/55.jpg');
+}
+ img{
+	height: 2em;
+	margin-left: auto;
+	float: right;
+	}
+.form-aut{
+	margin-bottom: 8px;
+	overflow: hidden;
+	font-family:  Georgia;
+	color: #fef5f7;
+}
+.form-aut input{
+	float: right;
+	height: 19px;
+	line-height: 19px;
+	width: 280px;
+	border-radius: 10px;
+}
+.reg-form{
+	width: 550px;
+	margin: 0px auto;
+	border: 5px ridge #fee5c6;
+	background-color:#30312c;
+	padding-left: 25px;
+	padding-right: 15px;
+	border-radius: 20px; 
+}
+.form-aut input[type=submit]{
+  display: inline-block;
+  color: black;
+  font:12pt Georgia;
+  text-decoration: none;
+  padding: 5px;
+  height: 30px;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #9d9f9e #000 #382a4e;
+  border-radius: 6px;
+  background: linear-gradient(#f7cb8a, #f8d7ae) #cfbc7a;
+  transition: 0.2s;
+  width: 100%;
+  margin:0 auto;
+ 
+}
+.form-aut input[type=submit]:hover{
+	background: linear-gradient(#ffffff, #fae0c8) #60876a;
+}
+.checkbox{
+	color:#fef5f7;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Registration form</title>
+		<link rel = "stylesheet" href = "styles/Registration form.css">
+    </head>
+    <body>
+        <form mehtod = "get" class="reg-form">
+            <a href="Home page.html"><img src="images/close.png"></a>
+			<div class="form-reg">
+			<p align="center"><font size="6" face="braggadocio">Registration</font></p>
+			</div>
+			<div class="form-reg">
+			<label for="form_nick"> Create a username:</label>              
+                <input type="text" id="form_nick" placeholder="Username">
+            </div>
+			
+			<div class="form-reg">
+			<label for="form_fname"> Write your real first name:</label>              
+                <input type="text" id="form_fname" placeholder="first name">
+            </div>
+			
+			<div class="form-reg">
+			<label for="form_sname"> Write your real second name:</label>              
+                <input type="text" id="form_sname" placeholder="second name">
+            </div>
+			
+			<div class="form-reg">
+			<label for="date">Date of Birth: </label>
+                <input type="date" id="date" name="date" required>
+			</div>
+			<div class="form-reg">
+			<label for="form_pass"> Create a password:</label>              
+                <input type="password" id="form_pass" placeholder="password">
+            </div>
+	
+			<div class="form-reg">
+			<label for="form_number"> Phone number:</label>              
+                <input type="tel" id="form_number" placeholder="phone">
+            </div>
+
+			<div class="form-reg">
+			<label for="form_mail">Your mail:</label>              
+                <input type="email" id="form_mail" placeholder="Email" required>
+            </div>
+			
+          	<div class="form-reg">
+            <input type="submit" value="Register">
+			</div>
+        </form>
+    </body>
+</html>

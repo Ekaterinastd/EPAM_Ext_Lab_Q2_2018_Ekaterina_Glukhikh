@@ -7,12 +7,14 @@ using System.Web.Mvc;
 namespace Task_1.Controllers
 {
     public class CalculatorController : Controller
-    {/// <summary>
-    /// Метод, возвращающий сумму чисел
-    /// </summary>
-    /// <param name="x"></param>
-    /// <param name="y"></param>
-    /// <returns></returns>
+    {
+        private static string logOut = string.Empty;
+        /// <summary>
+        /// Метод, возвращающий сумму чисел
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
         public int Sum(int x, int y)
         {
              return x + y;
@@ -61,6 +63,17 @@ namespace Task_1.Controllers
         public ActionResult Result(Models.Model1.Calculating calc)
         {
             return View();
+        }
+        public static string LogOut
+        {
+            get
+            {
+                return logOut;
+            }
+            set
+            {
+                logOut = value;
+            }
         }
     }
 }
