@@ -1,0 +1,7 @@
+D:\Катя\программирование\Epam\Home_Task\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\Катя\программирование\Epam\Home_Task\Task 3\bin\Debug\Task 3.exe.config
+D:\Катя\программирование\Epam\Home_Task\Task 3\bin\Debug\Task 3.exe
+D:\Катя\программирование\Epam\Home_Task\Task 3\bin\Debug\Task 3.pdb
+D:\Катя\программирование\Epam\Home_Task\Task 3\obj\Debug\Task 3.exe
+D:\Катя\программирование\Epam\Home_Task\Task 3\obj\Debug\Task 3.pdb
+D:\Катя\программирование\Epam\Home_Task\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache

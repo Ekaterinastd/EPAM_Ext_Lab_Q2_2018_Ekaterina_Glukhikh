@@ -1,0 +1,10 @@
+Test1: time to create a normal line: 33782 ticks
+       time to create a string using StringBuilder: 294 ticks
+Test2: time to create a normal line: 193650 ticks
+       time to create a string using StringBuilder: 465 ticks
+Test3: time to create a normal line: 535544 ticks
+       time to create a string using StringBuilder: 561 ticks
+Test4: time to create a normal line: 1264939 ticks
+       time to create a string using StringBuilder: 446 ticks
+Test5: time to create a normal line: 3482188 ticks
+       time to create a string using StringBuilder: 655 ticks
