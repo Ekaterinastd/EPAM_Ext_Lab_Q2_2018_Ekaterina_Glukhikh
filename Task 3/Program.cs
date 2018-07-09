@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace Task_3
 {
-    class Realization
-    {   /// <summary>
+    class Realization//todo pn антипаттерн "божественный объект"
+	{   /// <summary>
     /// Метод, вычисляющий площадь прямоугольника
     /// </summary>
     /// <returns></returns>
@@ -18,9 +18,9 @@ namespace Task_3
             double x,y;
             while (true)
             {
-                Console.Write("Please write the length of the first side: ");
+                Console.Write("Please write the length of the first side: ");//todo pn хардкод. строки - в ресурсы.
 
-                if (!double.TryParse(Console.ReadLine(), out x) || (x < 0))
+				if (!double.TryParse(Console.ReadLine(), out x) || (x < 0))
                 {
                     Console.WriteLine("Please enter positive number");
                     continue;
@@ -61,8 +61,8 @@ namespace Task_3
                         if (j != n)
                         {
                             if (i > j)
-                                Console.Write("*");
-                        }
+                                Console.Write("*");//todo pn хардкод
+						}
                         else Console.Write("\n");
                 break;
             }
@@ -88,10 +88,10 @@ namespace Task_3
                 {
                     int i;
                     for (i = 0; i < spaces; i++)
-                        Console.Write(" ");
-                    for (i = 0; i < stars; i++)
-                        Console.Write("*");
-                    Console.Write("\n");
+                        Console.Write(" ");//todo pn хардкод
+					for (i = 0; i < stars; i++)
+                        Console.Write("*");//todo pn хардкод
+					Console.Write("\n");
                 }
                 for (line = 1; line <= size; line++)
                     drawOneLine(size - line, line * 2 - 1);
@@ -117,9 +117,9 @@ namespace Task_3
                 {
                     for (int j = 0; j < i; j++)
                     {
-                        string branch = new String('*', j);
-                        Console.WriteLine(branch.PadLeft(n + 3) + "*" + branch);
-                    }
+                        string branch = new String('*', j);//todo pn хардкод
+						Console.WriteLine(branch.PadLeft(n + 3) + "*" + branch);//todo pn хардкод
+					}
                 }
                 break;
             }
@@ -131,10 +131,10 @@ namespace Task_3
         public static string Numbers()
         {
             int sum=0;
-            for (int n = 0; n < 1000; n++)
-            {
-                if (n % 3 == 0 || n % 5 == 0)
-                    sum += n;
+            for (int n = 0; n < 1000; n++)//todo pn хардкод
+			{
+                if (n % 3 == 0 || n % 5 == 0)//todo pn хардкод
+					sum += n;
              }
             var result = ("The sum of natural numbers from 1 to 1000 multiples of 3 or 5 = " + Convert.ToString(sum));
             return result;
@@ -182,8 +182,8 @@ namespace Task_3
             {
                 for (j = 0; j < n; j++)
                 {
-                    array[i, j] = r.Next(10, 99);
-                }
+                    array[i, j] = r.Next(10, 99);//todo pn хардкод
+				}
             }
             Console.WriteLine("Array: ");
             for (i = 0; i < m; i++)
@@ -304,8 +304,8 @@ namespace Task_3
             int[] array = new int[n];
             for (int i = 0; i < n; i++)
             {
-                array[i] = r.Next(-10, 10);
-                Console.Write(array[i] + " ");
+                array[i] = r.Next(-10, 10);//todo pn хардкод
+				Console.Write(array[i] + " ");
             }
             for (int i = 0; i < n; i++)
                 if (array[i] > 0)
@@ -328,8 +328,8 @@ namespace Task_3
             {
                 for (j = 0; j < n; j++)
                 {
-                    array[i, j] = r.Next(1, 10);
-                    Console.Write(array[i, j] + " ");
+                    array[i, j] = r.Next(1, 10);//todo pn хардкод
+					Console.Write(array[i, j] + " ");
                 }
                 Console.WriteLine();
             }
